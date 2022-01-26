@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development! 
 - 🌱 I’m currently exploring Reactjs, Nextjs. 
 - 💞️ I’m looking to collaborate on web and related stuff. 
-- 📫 Reach my via mail : shekharaditya7@gmail.com
+- 📫 Reach me via mail : shekharaditya7@gmail.com
 
 <!---
 shekharaditya7/shekharaditya7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
